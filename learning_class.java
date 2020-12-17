@@ -1,4 +1,4 @@
-package learning_class;
+package learning_class;	
 
 public class learning_class {
 	public static void main(String[] args)
@@ -29,7 +29,7 @@ class Student
 
 class Teacher
 {
-	public String getNumber()
+	public String getNumber()		//클래스는 변수뿐만 아니라 함수도 호출할 수 있다.
 	{
 		return "교장선생님";
 	}
